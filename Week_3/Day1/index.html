@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arts</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+   
+</head>
+<body>
+    <header>
+        <h1>Sample Page</h1>
+        <nav>
+            <a href="#" >Home</a>
+            <a href="#" onclick="enterName()">YourName</a>
+            <a href="#" onclick="SumOfTwoNum()">SumOfTwoNumbers</a>
+            <a href="#" onclick="numOccurence()">NumberOccurenceInArray</a>
+            <a href="#" onclick="reversedString()">RerverseString</a>
+            <a href="#" onclick="uniqueNumArry()">uniqueNumArry</a>
+            <a href="#" onclick="intersectionNumArry()">Intersection</a>
+            <button onclick="myFunction()">Click me</button>
+        </nav>
+    </header>
+    <label for="inputText">Enter some text:</label>
+    <input type="text" id="inputText" placeholder="Type here...">
+
+    <button onclick="addParagraph()">Add Paragraph</button>
+
+    <script>
+        function addParagraph() {
+            const inputText = document.getElementById("inputText").value;
+
+            // Create a new paragraph element
+            const newParagraph = document.createElement("p");
+
+            // Set the text content of the paragraph to the input value
+            newParagraph.textContent = inputText;
+
+            // Append the new paragraph to the document body or any other desired element
+            document.body.appendChild(newParagraph);
+
+            // Clear the input field after creating the paragraph
+            document.getElementById("inputText").value = "";
+        }
+    </script>
+    <br>
+    <br>
+    <p id="Arr"  ></p>
+    <div class="center">     
+        <div>
+            <label>First number:</label> <input id='fnum' type="number" name="fnum" value=""><br><br>
+            <label>Second number:</label>  <input id='snum' type="number" name="lnum" value=""><br>
+            <button onclick="fomSum()" >Submit</button>
+            <p id="sumP"  ></p>
+        </div>
+      
+    </div>
+     
+    <main>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt faucibus turpis, nec gravida ligula pulvinar ut. Sed in lorem non ipsum vestibulum lobortis a sit amet ipsum.</p>
+        <p>Nulla facilisi. Aenean interdum, nisl in volutpat fermentum, justo nisi cursus dui, at dictum lorem ex nec nulla. Nulla facilisi. Etiam et risus velit.</p>
+        <p>Phasellus tincidunt mi non facilisis euismod. Sed vitae arcu in arcu aliquet scelerisque vel eget tellus. Cras dapibus dolor quam, sit amet sagittis nisl interdum quis.</p>
+        
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>

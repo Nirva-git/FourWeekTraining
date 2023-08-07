@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.AssemblyInfo.cs
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\bin\Debug\net7.0\Day2Exe2.exe
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\bin\Debug\net7.0\Day2Exe2.deps.json
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\bin\Debug\net7.0\Day2Exe2.runtimeconfig.json
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\bin\Debug\net7.0\Day2Exe2.dll
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\bin\Debug\net7.0\Day2Exe2.pdb
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.dll
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\refint\Day2Exe2.dll
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.pdb
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\Day2Exe2.genruntimeconfig.cache
+C:\Users\admin\source\repos\Day2Exe2\Day2Exe2\obj\Debug\net7.0\ref\Day2Exe2.dll

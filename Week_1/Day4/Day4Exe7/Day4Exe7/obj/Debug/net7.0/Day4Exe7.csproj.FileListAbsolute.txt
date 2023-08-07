@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\Day4Exe7\Day4Exe7\obj\Debug\net7.0\Day4Exe7.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day4Exe7\Day4Exe7\obj\Debug\net7.0\Day4Exe7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Day4Exe7\Day4Exe7\obj\Debug\net7.0\Day4Exe7.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Day4Exe7\Day4Exe7\obj\Debug\net7.0\Day4Exe7.AssemblyInfo.cs
+C:\Users\admin\source\repos\Day4Exe7\Day4Exe7\obj\Debug\net7.0\Day4Exe7.csproj.CoreCompileInputs.cache

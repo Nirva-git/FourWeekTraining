@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Day5Exe3/1.0.0": {
+        "runtime": {
+          "Day5Exe3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day5Exe3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

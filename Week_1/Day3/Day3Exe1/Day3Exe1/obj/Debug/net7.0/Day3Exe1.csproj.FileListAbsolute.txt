@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.AssemblyInfo.cs
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\bin\Debug\net7.0\Day3Exe1.exe
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\bin\Debug\net7.0\Day3Exe1.deps.json
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\bin\Debug\net7.0\Day3Exe1.runtimeconfig.json
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\bin\Debug\net7.0\Day3Exe1.dll
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\bin\Debug\net7.0\Day3Exe1.pdb
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.dll
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\refint\Day3Exe1.dll
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.pdb
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\Day3Exe1.genruntimeconfig.cache
+C:\Users\admin\source\repos\Day3Exe1\Day3Exe1\obj\Debug\net7.0\ref\Day3Exe1.dll

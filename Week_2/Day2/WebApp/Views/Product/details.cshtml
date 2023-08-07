@@ -1,0 +1,22 @@
+﻿@model ProductDetails
+
+<h1>Product Details</h1>
+
+<p>@Model.DisplayMessage</p>
+
+<table>
+    <tr>
+        <th>
+            <div>
+                <label for="id">ID:</label>
+                <input type="text" id="id" name="Id" asp-for="Id" />
+            </div>
+        </th>
+     
+    </tr>
+    <tr>
+        <td>@Model.Id</td>
+      
+    </tr>
+    <button type="submit">Okay</button>
+</table>

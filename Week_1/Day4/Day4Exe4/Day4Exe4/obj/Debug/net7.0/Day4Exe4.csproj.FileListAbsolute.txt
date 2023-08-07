@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.AssemblyInfo.cs
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\bin\Debug\net7.0\Day4Exe4.exe
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\bin\Debug\net7.0\Day4Exe4.deps.json
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\bin\Debug\net7.0\Day4Exe4.runtimeconfig.json
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\bin\Debug\net7.0\Day4Exe4.dll
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\bin\Debug\net7.0\Day4Exe4.pdb
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.dll
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\refint\Day4Exe4.dll
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.pdb
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\Day4Exe4.genruntimeconfig.cache
+C:\Users\admin\source\repos\Day4Exe4\Day4Exe4\obj\Debug\net7.0\ref\Day4Exe4.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\bin\Debug\net7.0\Day5Exe4.exe
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\bin\Debug\net7.0\Day5Exe4.deps.json
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\bin\Debug\net7.0\Day5Exe4.runtimeconfig.json
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\bin\Debug\net7.0\Day5Exe4.dll
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\bin\Debug\net7.0\Day5Exe4.pdb
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.AssemblyInfo.cs
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.dll
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\refint\Day5Exe4.dll
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.pdb
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\Day5Exe4.genruntimeconfig.cache
+C:\Users\admin\source\repos\Day5Exe4\Day5Exe4\obj\Debug\net7.0\ref\Day5Exe4.dll

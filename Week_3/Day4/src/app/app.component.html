@@ -1,0 +1,21 @@
+<h1>{{title}}</h1>
+<form #userForm="ngForm" (ngSubmit)="getUserFormData(userForm.value)">
+  <input type="number" ngModel name="userId" placeholder="Enter UserId">
+  <br><br>
+  <input type="text" ngModel name="title" placeholder="EnterTitle">
+  <br><br>
+  <input type="text" ngModel name="body" placeholder="Enter some Details">
+  <br><br>
+  <button type="submit">Add New Post</button>
+  <button (click)="deleteUserData(userForm.value)">Delete Post</button>
+  <button (click)="updateUserData(userForm.value)">Update Post</button> 
+</form>
+<ul>
+  <li *ngFor="let post of posts">
+    Id={{post.id}}<br>
+      UserId={{post.userId}}<br>
+      Titles={{post.title}}<br>
+      Body={{post.body}}
+  </li>
+</ul>
+

@@ -1,0 +1,29 @@
+﻿@page
+@using eCommerce.Models;
+@model List<Product>
+
+<h1>Product List</h1>
+
+<a asp-page="/Product/Create" class="btn btn-primary">Create New Product</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <!-- Add additional columns if needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <!-- Display additional data here -->
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,18 @@
+<div class="login">
+    <a [routerLink]="['/login']">
+        Login
+    </a>
+</div>
+<div class="product-container">
+    <div *ngFor="let product of products" class="product">
+        <!-- <a [routerLink]="['/login']" *ngIf="isLogin"></a> -->
+        <div (click)=CheckLogin()>
+        <img src={{product.image}} class="product_image"/>
+        <h3 class="product_title">{{product.title}}</h3><hr>
+        <p class="product_body">{{product.rating.rate}} ({{product.rating.count}})</p>
+        </div>
+    </div>
+</div>
+
+  
+  
